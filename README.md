@@ -8,6 +8,7 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database.
 ## How to setup/deploy.
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Splashpro/acov9.git)
 
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
